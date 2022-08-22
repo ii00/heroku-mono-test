@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Cocoa",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 134,
+      "comment": "324fsdfsadf",
+      "date": "2022-07-05T21:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "asdsadeeeeeeeeeeee",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 21321,
+      "comment": "das",
+      "date": "2022-07-14T21:00:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "txtxtxt",
+      "category": "Electronics",
+      "freshness": "Seconds Hand",
+      "price": 44,
+      "comment": "3123213",
+      "date": "2022-06-30T21:00:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "Headphones",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 2314,
+      "comment": "fsdfsad fdsf dff fd f",
+      "date": "2022-07-07T21:00:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "Soda",
+      "category": "Fruits",
+      "freshness": "Seconds Hand",
+      "price": 123,
+      "comment": "asdf sadf df fd df",
+      "date": "2022-07-14T21:00:00.000Z",
+      "id": 14
+    },
+    {
+      "productName": "Stefan Georgiev Chochkov",
+      "category": "Vegetables",
+      "freshness": "Seconds Hand",
+      "price": 434.23424,
+      "comment": "TEova e edin ",
+      "date": "2022-07-26T21:00:00.000Z",
+      "id": 15
+    },
+    {
+      "productName": "Weight",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 44,
+      "comment": "fsadfdsf",
+      "date": "2022-07-13T21:00:00.000Z",
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
